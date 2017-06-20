@@ -1,0 +1,26 @@
+.sidebar-wrapper img{
+	width: 100px;
+	height: auto;
+	display: block;
+	margin:0 auto;
+}
+.logosNames{
+	display: block;
+	margin: 0 auto;
+}
+#logoName1{
+	color:#FF3B00;
+	font-size: 16px;
+}
+#logoName2{
+	color:#00FF00;
+	font-size: 12px;
+}
+ul li a glyph-icon {
+	margin-left: 0;
+
+} 
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before, [class^="flaticon-"]:after, [class*=" flaticon-"]:after
+{
+	margin-left: 0;
+}
